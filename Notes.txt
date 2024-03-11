@@ -1,8 +1,3 @@
-Notes
-
-Add TraceLogicText-Text Appends for each trace logic decision
-Email bowman asking if a decision of checking the trace logic boolean needs to be documented as a decision made. 
-Comment code throughout so that it is easier to understand 
 
 
 
